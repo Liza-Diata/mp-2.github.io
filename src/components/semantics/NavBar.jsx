@@ -12,7 +12,7 @@ const NavBar = () => {
  
 
   return (
-    <div className='w-full flex justify-between items-center h-20 top-0 max-w-[1240px] mx-auto px-4 right-0 text-gray-200 bg-black fixed'>
+    <div className='w-full flex justify-between items-center h-20 top-0 mx-auto px-4 right-0 text-gray-200 bg-black fixed'>
         <img src="https://i0.wp.com/www.fightbookmma.com/wp-content/uploads/2022/07/fight-scout-logo.png?fit=1670%2C657&ssl=1" className='w-28 ml-20 ' alt="" />
         <ul className='hidden md:flex mx-auto' id='navlink '>
             <Link className='mt-4 mx-2 p-2 font-bold hover:scale-105 duration-300 cursor-pointer hover:bg-[#871f2d] rounded-xl' id='navlink' to='/'>HOME</Link>
