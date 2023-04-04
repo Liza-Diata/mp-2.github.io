@@ -28,7 +28,7 @@ export const Footer = () => {
         <ul>
             <li className='py-2 text-sm'>MMA Gym</li>
             <li className='py-2 text-sm'>Muay Thai Gym</li>
-            <li className='py-2 text-sm'>Bpxing Gym</li>
+            <li className='py-2 text-sm'>Boxing Gym</li>
             <li className='py-2 text-sm'>BJJ Gym</li>
         </ul>
     </div>
